@@ -17,8 +17,9 @@
     "url": "https://github.com/cklokmose/new-webstrates-connection-demo/issues"
   },
   "dependencies": {
-    "@automerge/automerge": "^2.0.3",
-    "node-fetch": "^3.3.2"
+    "@automerge/automerge": "^2.1.0",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.14.1"
   },
   "homepage": "https://github.com/cklokmose/new-webstrates-connection-demo#readme"
 }
