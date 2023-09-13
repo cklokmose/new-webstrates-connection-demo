@@ -1,0 +1,24 @@
+{
+  "name": "new-webstrates-connection-demo",
+  "version": "0.0.1",
+  "description": "Demo of how to connect to the new Webstrates server and receive Automerge sync messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cklokmose/new-webstrates-connection-demo.git"
+  },
+  "type": "module",
+  "author": "Clemens N. Klokmose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cklokmose/new-webstrates-connection-demo/issues"
+  },
+  "dependencies": {
+    "@automerge/automerge": "^2.0.3",
+    "node-fetch": "^3.3.2"
+  },
+  "homepage": "https://github.com/cklokmose/new-webstrates-connection-demo#readme"
+}
